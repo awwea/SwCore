@@ -2,11 +2,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Config/etc/system_file.xsd">
     <system>
         <tab id="sw_extensions" translate="label" sortOrder="510">
-<<<<<<< HEAD
             <label>SmartWave Tools</label>
-=======
-            <label>Smartwave Tools</label>
->>>>>>> c1375d22e8f470c1ec79eefbf983d8dec79007d5
         </tab>
     </system>
 </config>

@@ -1,10 +1,6 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
     <menu>
-<<<<<<< HEAD
-        <add id="Smartwave_Core::sw_all" title="SmartWave" module="Smartwave_Core" sortOrder="60" resource="Smartwave_Core::all"/>
-=======
         <add id="Smartwave_Core::sw_all" title="Smartwave" module="Smartwave_Core" sortOrder="600" resource="Smartwave_Core::all"/>
->>>>>>> c1375d22e8f470c1ec79eefbf983d8dec79007d5
     </menu>
 </config>
